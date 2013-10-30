@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1381455648 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiClase.cpp
+	"MiClase.h"
+
+1381455657 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiClase.h
+	<iostream>
+
+1383010035 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/main.cpp
+	<iostream>
+	<vector>
+	"Personaje.h"
+	"Curador.h"
+	"Tanque.h"
+
+1381456153 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiOtraClase.cpp
+	"MiOtraClase.h"
+
+1381456528 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiOtraClase.h
+	"MiClase.h"
+
+1382060934 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Jugador.cpp
+	"Jugador.h"
+
+1382060923 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Jugador.h
+
+1382061232 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Enemigo.cpp
+	"Enemigo.h"
+
+1382061227 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Enemigo.h
+	"Jugador.h"
+
+1383008713 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Personaje.cpp
+	"Personaje.h"
+
+1383009756 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Personaje.h
+	<string>
+	<iostream>
+
+1383009012 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Curador.cpp
+	"Curador.h"
+
+1383008979 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Curador.h
+	"Personaje.h"
+
+1383009850 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Tanque.cpp
+	"Tanque.h"
+
+1383009823 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Tanque.h
+	"Personaje.h"
+
+1383091400 source:c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\curador.cpp
+	"Curador.h"
+
+1383091400 c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\curador.h
+	"Personaje.h"
+
+1383098010 c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\personaje.h
+	<string>
+	<iostream>
+
+1383097881 source:c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\main.cpp
+	<iostream>
+	<vector>
+	"Personaje.h"
+	"Curador.h"
+	"Tanque.h"
+	"Guerrero.h"
+	"Mago_Oscuro.h"
+	"Mago_Blanco.h"
+
+1383091400 c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\tanque.h
+	"Personaje.h"
+
+1383098010 source:c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\personaje.cpp
+	"Personaje.h"
+
+1383091400 source:c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\tanque.cpp
+	"Tanque.h"
+
+1383098084 source:c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\guerrero.cpp
+	"Guerrero.h"
+
+1383097758 c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\guerrero.h
+	"Personaje.h"
+
+1383098064 source:c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\mago_blanco.cpp
+	"Mago_Blanco.h"
+
+1383097758 c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\mago_blanco.h
+	"Personaje.h"
+
+1383098105 source:c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\mago_oscuro.cpp
+	"Mago_Oscuro.h"
+
+1383097758 c:\users\joseph griffin\desktop\claseejemplopolimorfismo-master\mago_oscuro.h
+	"Personaje.h"
+
